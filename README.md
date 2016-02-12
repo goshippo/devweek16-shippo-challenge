@@ -3,9 +3,9 @@
 **Excited to have you working on the Shippo Challenge for Developer Week 2016!** 
 
 #### About the challenge
-At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. Every month, ship millions of packages around the world. For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
+At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
 
-**Use it to build a better shipment tracking visualization and alert app.**
+**Use it to build a better shipment tracking visualization and alert app. We'll be providing you with a live feed of tracking numbers from our own database.**
 
 Here are some ideas that we brewed up:
 
@@ -38,7 +38,7 @@ Prettiness | 2
 
 
 #### Ask us anything!
-Fellow Shippos will be wondering around the hackathon on both Saturday and Sunday wearing their Shippo swag. 
+Fellow Shippos will be wondering around the hackathon on both Saturday and Sunday wearing our Shippo swag. 
 
 [insert photo of shan, simon, ali, rohan]
 
