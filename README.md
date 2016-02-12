@@ -2,6 +2,8 @@
 
 **Excited to have you working on the Shippo Challenge for Developer Week 2016!** 
 
+[Follow us on Twitter](https://twitter.com/goshippo), or get on our [Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5) to chat. 
+
 #### About the challenge
 At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
 
@@ -12,6 +14,9 @@ Here are some ideas that we brewed up:
 * Real-time shipment visualization
 * Chrome app to check on where all your shipments are
 * Facebook notifications or Apple Watch alerts when your package arrives.
+
+**Let us know what you're working on by creating a project under the [Shippo Challenge on Accelerate.im](http://www.accelerate.im/challenges/52) so that we can track it for the final hackathon judging.**
+
 
 #### How to use the Tracking API
 It's easy to access the Tracking API. Simply send a GET request to our Tracking Endpoint: `https://api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
