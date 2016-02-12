@@ -21,7 +21,7 @@ To see which carriers we support, sample responses, and how to sync tracking wit
 *Webhooks are free to use for all hackathon apps.*
 
 #### Setup
-1. -- Ali to create a tracking number API that can be called on. Can a Shippo token be required to do that? 
+1. [Ali to add more instructions here]
 2. Create a Shippo account so that you can add webhooks--- can we make a specific link? UTM tag? so we can track? 
 
 #### Judging Criteria
@@ -29,7 +29,7 @@ We will be judging hacks according to the following criterias. We'll be awarding
 
 Criteria | Weight (1-4) | Score (1-5)
 ------------ | :-------------: | :------------:
-Real-life application of API | 4 | 
+Usefulness of app | 4 | 
 Completion of app | 4  | 
 Technical execution | 3 |
 User experience | 3
