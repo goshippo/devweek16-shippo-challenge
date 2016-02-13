@@ -41,6 +41,6 @@ Fellow Shippos will be wondering around the hackathon on both Saturday and Sunda
 
 ![Shippo Team](img/shippo-hacks-team.png "Shippo Team")
 
-Come visit us if you have questions, or [follow us on Twitter!](https://twitter.com/goshippo) or [join us on the Shippo Hacks Slack channel!](http://goo.gl/forms/KYKhUUWbF5)
+Come visit us if you have questions, or [follow us on Twitter!](https://twitter.com/goshippo) or [join us on the Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5)
 
-[And of course, we're hiring!](https://goshippo.com/jobs/)
+**[And of course, we're hiring!](https://goshippo.com/jobs/)**
