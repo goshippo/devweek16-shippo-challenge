@@ -2,10 +2,8 @@
 
 **Excited to have you working on the Shippo Challenge for Developer Week 2016!** 
 
-[Follow us on Twitter](https://twitter.com/goshippo), or get on our [Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5) to chat. 
-
-#### About the challenge
-At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. 
+### About the challenge
+[At Shippo](https://goshippo.com/), we build shipping APIs and dashboards connecting e-commerce stores to multiple carriers like USPS, FedEx, UPS etc., all from within one system.  
 
 For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
 
@@ -20,12 +18,12 @@ Here are some ideas that we brewed up:
 **Let us know what you're working on by creating a project under the [Shippo Challenge on Accelerate.im](http://www.accelerate.im/challenges/52) so that we can track it for the final hackathon judging.**
 
 
-#### Tutorial Links
+### Tutorial Links
 1. [How to use the new Tracking API.](/tracking_api_instruct.md)
 2. [How to get a feed of live tracking numbers.](/tracking_numbers.md)
 2. [How to set up webhooks.](/webhook_setup.md)
 
-#### Judging Criteria
+### Judging Criteria
 We will be judging hacks according to the following criterias. We'll be awarding the winning team an Apple Watch for each active member.
 
 Criteria | Weight (1-4) | Score (1-5)
@@ -38,9 +36,11 @@ Prettiness | 2
 **Total score** | sum of weight x score | winner has the highest total score
 
 
-#### Ask us anything!
+### Ask us anything!
 Fellow Shippos will be wondering around the hackathon on both Saturday and Sunday wearing our Shippo swag. 
 
 ![Shippo Team](img/shippo-hacks-team.png "Shippo Team")
 
-Come visit us if you have questions, or [join us on the Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5)!
+Come visit us if you have questions, or [follow us on Twitter!](https://twitter.com/goshippo) or [join us on the Shippo Hacks Slack channel!](http://goo.gl/forms/KYKhUUWbF5)
+
+[And of course, we're hiring!](https://goshippo.com/jobs/)
