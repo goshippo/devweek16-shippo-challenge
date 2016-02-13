@@ -2,7 +2,7 @@
 Simply send a GET request to our Tracking Endpoint: 
 `http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
 
-To see which carriers we support, sample responses, and how to sync tracking with webhooks, [head to our docs](http://r.goshippo.com/tracking-api-docs).
+To see which carriers we support, sample responses, and how to setup webhooks, [head to our docs](http://r.goshippo.com/tracking-api-docs).
 
 
 #### Example Input
