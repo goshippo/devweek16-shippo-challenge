@@ -1,5 +1,12 @@
-#### Using the API:
+#### How to get tracking numbers
+Simply send a GET request to the tracking number endpoint: `http://hackers-api.goshippo.com/v1/tracking_numbers/`
 
+You will return: 
+* URL to the next page
+* Four tracking numbers, along with the carriers they are shipped by. 
+
+
+#### Example Input
 ```shell
 $ curl http://hackers-api.goshippo.com/v1/tracking_numbers/
 ```
