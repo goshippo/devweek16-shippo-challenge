@@ -1,5 +1,6 @@
 #### How to use the Tracking API
-Simply send a GET request to our Tracking Endpoint: `http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
+Simply send a GET request to our Tracking Endpoint: 
+`http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
 
 To see which carriers we support, sample responses, and how to sync tracking with webhooks, [head to our docs](http://r.goshippo.com/tracking-api-docs).
 
@@ -70,4 +71,5 @@ $ curl http://hackers-api.goshippo.com/v1/tracks/usps/9400110898680009697924/
 }
 }
 ]
-}```
+}
+```

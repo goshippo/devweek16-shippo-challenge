@@ -1,15 +1,17 @@
 #### How to setup webhooks
 
-**Adding your webhooks**
+**Adding webhooks**
 
 1. Create a free Shippo account at [goshippo.com](https://goshippo.com/)
 2. Head to [the API section](https://goshippo.com/user/apikeys/), and add your webhook URL.
 
-**Setup and activate your webhooks**
+**Activating webhooks**
 
-To let us know that you want to receive webhook updates for a shipment, send a POST request to the same Tracking endpoint: `http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
+To activate webhook updates for a shipment, send a POST request to the same Tracking endpoint: `http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
 
 You should expect the same json response as the GET request.
+
+*Webhook updates are free for applications created at the hackathon.*
 
 **Expected webhook behaviour**
 
