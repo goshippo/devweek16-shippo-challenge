@@ -45,6 +45,6 @@ Prettiness | 2
 #### Ask us anything!
 Fellow Shippos will be wondering around the hackathon on both Saturday and Sunday wearing our Shippo swag. 
 
-![Shippo Team](img/shippo-hacks-team.jpg "Shippo Team")
+![Shippo Team](img/shippo-hacks-team.png "Shippo Team")
 
 Come visit us if you have questions, or [join us on the Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5)!
