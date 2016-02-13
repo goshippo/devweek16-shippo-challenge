@@ -5,9 +5,11 @@
 [Follow us on Twitter](https://twitter.com/goshippo), or get on our [Shippo Hacks Slack channel](http://goo.gl/forms/KYKhUUWbF5) to chat. 
 
 #### About the challenge
-At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
+At Shippo, we build APIs and dashboards connecting e-commerce stores to carriers. 
 
-**Use it to build a better shipment tracking visualization and alert app. We'll be providing you with a live feed of tracking numbers from our own database.**
+For this challenge, get pre-launch access to our newest Tracking API to pull shipment tracking information from all major carriers in one place. 
+
+**Use the new Tracking API to build a better shipment tracking visualization and alert app. We'll be providing you with a live feed of tracking numbers to play with.**
 
 Here are some ideas that we brewed up:
 
@@ -18,16 +20,10 @@ Here are some ideas that we brewed up:
 **Let us know what you're working on by creating a project under the [Shippo Challenge on Accelerate.im](http://www.accelerate.im/challenges/52) so that we can track it for the final hackathon judging.**
 
 
-#### How to use the Tracking API
-It's easy to access the Tracking API. Simply send a GET request to our Tracking Endpoint: `https://api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
-
-To see which carriers we support, sample responses, and how to sync tracking with webhooks, [head to our docs](http://r.goshippo.com/tracking-api-docs).
-
-*Webhooks are free to use for all hackathon apps.*
-
-#### Setup
-1. [Ali to add more instructions here]
-2. Create a Shippo account so that you can add webhooks--- can we make a specific link? UTM tag? so we can track? 
+#### Tutorial Links
+1. [How to use the new Tracking API.](/tracking_api_instruct.md)
+2. [How to get a feed of live tracking numbers.](/tracking_numbers.md)
+2. [How to set up webhooks.](/webhook_setup.md)
 
 #### Judging Criteria
 We will be judging hacks according to the following criterias. We'll be awarding the winning team an Apple Watch for each active member.
