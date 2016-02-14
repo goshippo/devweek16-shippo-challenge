@@ -7,7 +7,9 @@
 
 **Activating webhooks**
 
-To activate webhook updates for a shipment, send a POST request to the same Tracking endpoint: `http://hackers-api.goshippo.com/v1/tracks/<CARRIER>/<TRACKING-NUMBER>/`
+To activate webhook updates for a shipment, send a POST request with the carrier and tracking number information to a Tracking endpoint:
+
+`http://hackers-api.goshippo.com/v1/tracks/`
 
 You should expect the same json response as the GET request.
 
