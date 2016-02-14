@@ -1,6 +1,8 @@
 # DeveloperWeek 2016 Hackathon - Shippo Challenge
 
-**Excited to have you working on the Shippo Challenge for Developer Week 2016!** 
+*Excited to have you working on the Shippo Challenge for Developer Week 2016!*
+
+**For fast debugging, join our Shippo Hacks Slack group by sending an email to shan@goshippo.com!**
 
 ### About the challenge
 [At Shippo](https://goshippo.com/), we build shipping APIs and dashboards connecting e-commerce stores to multiple carriers like USPS, FedEx, UPS etc., all from within one system.  
