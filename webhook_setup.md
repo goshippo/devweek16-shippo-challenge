@@ -7,9 +7,18 @@
 
 **Activating webhooks**
 
-To activate webhook updates for a shipment, send a POST request with the carrier and tracking number information to a Tracking endpoint:
+To activate webhook updates for a shipment, send a POST request with the carrier and tracking number information to the Tracking endpoint:
 
 `http://hackers-api.goshippo.com/v1/tracks/`
+
+The POST request's body needs to consist of your shipment's tracking_number and carrier:
+
+```
+{
+    "tracking_number":"9400110898680009697924",
+    "carrier": "usps"
+}
+```
 
 You should expect the same json response as the GET request.
 
@@ -23,3 +32,4 @@ If we don’t receive a successful response, we will re-try our POST request up 
 
 If at the end of our 5th try, we still do not receive a successful response, we will disable your webhook. To re-enable your webhook, go back into your Shippo dashboard and add it again. 
 
+[For full documentation about the Tracking API, head here](https://goshippo.com/shipping-api/tracking-standalone)
